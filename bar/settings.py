@@ -38,8 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'bar.publish',
-    'rest_framework',
-    'pytest-django'
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
